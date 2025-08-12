@@ -2,14 +2,14 @@
 
 **Transform images and videos into stunning ASCII and unicode art and back** with speed speed and quality. This isn't just another converter - it's a complete toolkit that preserves audio, maintains quality, and delivers performance.
 
-[Bad Apple!! PV](https://github.com/2dameneko/img-vid-ascii/blob/main/samples/video/Bad_Apple_PV_demo.ascii_demo.mp4)  
+[Bad Apple!! PV](https://raw.githubusercontent.com/2dameneko/img-vid-ascii/samples/video/Bad_Apple_PV_demo.ascii_demo.mp4)  
 
 ## Why This Stands Out ✨
 
 **🎭 Dual Media Magic**  
 Convert **both images AND videos** seamlessly with a single utility. Your favorite images and clips become mesmerizing ASCII art in seconds.
 
-[3_1](https://github.com/2dameneko/img-vid-ascii/blob/main/samples/images/3_shades.ascii.jpg)
+[3_1](https://raw.githubusercontent.com/2dameneko/img-vid-ascii/samples/images/3_shades.ascii.jpg)
 
 **💾 Ultra-Compact .ascii Format**  
 Share creations that are **10-100x smaller** than originals! A 50MB video becomes a 1.5MB .ascii file - perfect for messaging and storage.
@@ -20,7 +20,7 @@ Enjoy videos with **original, untouched audio quality**. Soundtracks remain crys
 **⏩ Lightning-Fast Processing**  
 Experience **3-5× realtime conversion speeds**. GPU acceleration makes reconstruction back to mp4 blazing fast.
 
-[1](https://github.com/2dameneko/img-vid-ascii/blob/main/samples/images/1_blocks.ascii.jpg)
+[1](https://raw.githubusercontent.com/2dameneko/img-vid-ascii/samples/images/1_blocks.ascii.jpg)
 
 ## Key Dependencies ⚙️
 
@@ -47,7 +47,7 @@ graph LR
 **🎨 Unlimited Creativity**  
 Choose from any character sets or create your own! Specialized fonts bring runic symbols and geometric shapes to life.
 
-[5](https://github.com/2dameneko/img-vid-ascii/blob/main/samples/images/5_blocks.ascii.jpg)
+[5](https://raw.githubusercontent.com/2dameneko/img-vid-ascii/samples/images/5_blocks.ascii.jpg)
 
 ## Quick Start 🚀
 
@@ -64,7 +64,7 @@ Choose from any character sets or create your own! Specialized fonts bring runic
    3_play_ascii "your_video.ascii"
    ```
 
-[Dance Animation](https://github.com/2dameneko/img-vid-ascii/blob/main/samples/video/dance_mixer_standard.ascii_demo.mp4)  
+[Dance Animation](https://raw.githubusercontent.com/2dameneko/img-vid-ascii/samples/video/dance_mixer_standard.ascii_demo.mp4)  
 
 3. **Share Everywhere**  
    ```bash
@@ -74,7 +74,7 @@ Choose from any character sets or create your own! Specialized fonts bring runic
 **Share**  
 Send the tiny .ascii file to friends - they'll see the full show with original audio!
 
-[4](https://github.com/2dameneko/img-vid-ascii/blob/main/samples/images/4_blocks.ascii.jpg)
+[4](https://raw.githubusercontent.com2dameneko/img-vid-ascii/samples/images/4_blocks.ascii.jpg)
 
 **Transform Back**  
 Create a viral social media version:
@@ -91,11 +91,11 @@ NVIDIA CUDA/AMD AMF/Intel QSV acceleration makes conversion fast.
 Internal ZIP format with metadata
 
 ## Character Gallery 🖼️
-[2](https://github.com/2dameneko/img-vid-ascii/blob/main/samples/images/2_standard.ascii.jpg)
-[6_2](https://github.com/2dameneko/img-vid-ascii/blob/main/samples/images/6_standard.ascii.jpg)
+[2](https://raw.githubusercontent.com/2dameneko/img-vid-ascii/samples/images/2_standard.ascii.jpg)
+[6_2](https://raw.githubusercontent.com/2dameneko/img-vid-ascii/samples/images/6_standard.ascii.jpg)
 
 ## Video Showcase 🎥
-[ZAKO](https://github.com/2dameneko/img-vid-ascii/blob/main/samples/video/ZAKO_blocks.ascii_demo.mp4)  
+[ZAKO](https://raw.githubusercontent.com/2dameneko/img-vid-ascii/samples/video/ZAKO_blocks.ascii_demo.mp4)  
 
 ## Join the ASCII Revolution! 💻➡️🎨
 Rediscover your media through the beauty of ASCII!
