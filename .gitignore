@@ -19,6 +19,10 @@ dist/
 *.bak
 *~
 
+# But allow all files in samples/ and subdirectories
+!samples/
+!samples/**/*
+
 # Generated outputs (outside samples)
 *.ascii
 *.mp4
