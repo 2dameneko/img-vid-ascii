@@ -108,4 +108,4 @@ Rediscover your media through the beauty of ASCII!
 ## Credits
 * FFmpeg: [FFmpeg](https://ffmpeg.org/)
 * Runic font: [BabelStone Runic](https://www.babelstone.co.uk/Fonts/Runic.html)
-* Monospace font: [Inconsolata](https://github.com/googlefonts/Inconsolata)
+* Monospace font: [Cascadia Code](https://github.com/microsoft/cascadia-code)

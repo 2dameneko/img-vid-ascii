@@ -62,7 +62,7 @@ CHAR_SETS = {
         'name': 'Block Elements Alternative'
     },
     'geo': {
-        'chars': " ◜◞◟◦◃◠▿▹▱◌▵◅▭▸◁△◹▽▫▷▯□◯◄▰◫◊◮◎◈◖◭◗▬◤▪▼◑◍▮◒◐▤◉▧▨◕◛ Cuomo▣▦●▩■◘◙",
+        'chars': " ◜◞◟◦◃◠▿▹▱◌▵◅▭▸◁△◹▽▫▷▯□◯◄▰◫◊◮◎◈◖◭◗▬◤▪▼◑◍▮◒◐▤◉▧▨◕◛◚▣▦●▩■◘◙",
         'name': 'Geometric Shapes'
     },
     'shades': {

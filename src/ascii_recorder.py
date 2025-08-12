@@ -210,7 +210,7 @@ class ASCIIVideoRecorder:
         print(f"Creating font array for {len(unique_chars)} unique characters")
         script_dir = os.path.dirname(os.path.abspath(__file__))
         potential_paths_cascadia = [
-            os.path.join(script_dir, "Inconsolata-Regular.ttf"),
+            os.path.join(script_dir, "CascadiaCode.ttf"),
         ]
         potential_paths_segoe_runic = [
             os.path.join(script_dir, "BabelStoneRunic.ttf"),
