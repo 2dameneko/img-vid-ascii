@@ -1,0 +1,45 @@
+# Virtual environments
+venv/
+env/
+*.venv
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+dist/
+*.egg-info/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*~
+
+# Generated outputs (outside samples)
+*.ascii
+*.mp4
+*.avi
+*.mkv
+*.mov
+*.wmv
+*.aac
+*.mp3
+*.wav
+*.flac
+*.m4a
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
