@@ -19,11 +19,8 @@ dist/
 *.bak
 *~
 
-# But allow all files in samples/ and subdirectories
-!samples/
-!samples/**/*
-
 # Generated outputs (outside samples)
+# Ignore these extensions in root and other dirs...
 *.ascii
 *.mp4
 *.avi
@@ -47,3 +44,8 @@ $RECYCLE.BIN/
 .idea/
 *.swp
 *.swo
+
+
+# Allow all files in samples/ and its subdirectories
+!samples/
+!samples/**/*
